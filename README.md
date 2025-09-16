@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Unisonary
+# 👋 Hi, I'm Umix
 **Unity Developer**
 
 ## 🚀 About Me
@@ -47,14 +47,13 @@ I enjoy taking projects from concept to deployment, delivering clean, maintainab
 
 ## 📫 Contact Me
 
-Personal: bylava995@gmail.com
-Work: unisonary@outlook.com
+Email: bylava995@gmail.com
 
 <div style="white-space: nowrap; overflow-x: auto;">
   <a href="mailto:bylava995@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="mailto:unisonary@outlook.com">
+  <a href="mailto:bylava995@gmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
 </div>
